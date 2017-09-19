@@ -1,9 +1,9 @@
-# Baking Pi: bakingpi-www Repository
+# Baking Pi: Repositório bakingpi-www
 
-This repository contains the HTML pages comprising the [Baking Pi: Operating Systems Development](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/) tutorial.
+Este repositório contém as páginas HTML do tuturial [Baking Pi](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/).
 
-Submissions are very welcome, especially fixes to existing content. In order to contribute, please fork this repository, make your changes and send a GitHub [pull request](http://help.github.com/send-pull-requests/). Remember, any changes you make will continue to be subject to the [project's license](https://github.com/chadderz121/bakingpi-www/blob/master/LICENSE.md).
+Contribuições são muito bem vindas, especialmente consertos ao conteúdo existente. Para contribuir, por gentileza, clone o repositório e envie na forma de [pull request](http://help.github.com/send-pull-requests/). Lembre-se: mudanças feitas por você continuarão sujeitas ao [licenciamento do projeto](https://github.com/bortoluzzi/bakingpi-www/blob/master/LICENSE.md).
 
-## Styling
+## Estilo
 
-The .html files in this repository are run through a styling script before being made public. Try to keep your HTML code clean and minimal, to make the job of this script easier.
+Os arquivos .html nesse repositório são executados por meio de um script de estilo antes de se tornarem públicos. Tente manter seu HTML limpo e minimalista, para facilitar o trabalho do script.

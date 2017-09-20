@@ -1,8 +1,8 @@
-# Baking Pi: Repositório bakingpi-www
+# Baking Pi: Repositorio bakingpi-www
 
 Este repositório contém as páginas HTML do tuturial [Baking Pi](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/).
 
-Contribuições são muito bem vindas, especialmente consertos ao conteúdo existente. Para contribuir, por gentileza, clone o repositório e envie na forma de [pull request](http://help.github.com/send-pull-requests/). Lembre-se: mudanças feitas por você continuarão sujeitas ao [licenciamento do projeto](https://github.com/bortoluzzi/bakingpi-www/blob/master/LICENSE.md).
+Contribuições são muito bem vindas, especialmente consertos ao conteúdo existente. Para contribuir, por gentileza, clone o repositório e envie por [pull request](http://help.github.com/send-pull-requests/). Lembre-se: mudanças feitas por você continuarão sujeitas ao [licenciamento do projeto](https://github.com/bortoluzzi/bakingpi-www/blob/master/LICENSE.md).
 
 ## Estilo
 
